@@ -16,7 +16,7 @@ Integrantes del Observatorio de Reformas Políticas en América Latina recopilar
 
 ## Descripción
 
-El directorio `./Data/` contiene el archivo `./Data/Acceso_Medios` en el cual se encuentra toda la información relevante respecto a la base de datos de reformas electorales sobre acceso a medios de comunicación en América Latina. En específico, la base de datos se compone de las siguientes variables:
+El directorio `./Data/` contiene el archivo `./Data/DD_Acceso_Medios` en el cual se encuentra toda la información relevante respecto a la base de datos de reformas electorales sobre acceso a medios de comunicación en América Latina. En específico, la base de datos se compone de las siguientes variables:
 
 -   `país`: nombre del país en el cual se llevó a cabo la reforma al régimen electoral ejecutivo en América Latina.
 
